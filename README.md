@@ -1,5 +1,12 @@
 # QuasyCode
 small kOS Theme, don't use on other languages...
+***Scroll down for Installation guide***
+
+###
+Version 1.0
+
+- Changed some colours from 0.9.
+- Working on getting all languages up to date with new colours.
 
 **Windows guide**
 
