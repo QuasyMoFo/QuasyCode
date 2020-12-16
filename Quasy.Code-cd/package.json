@@ -1,0 +1,21 @@
+{
+    "name": "Quasy-code",
+    "displayName": "Quasy.Code",
+    "description": "QuasyMoFos code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quasy.Code",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quasy.Code-color-theme.json"
+            }
+        ]
+    }
+}
