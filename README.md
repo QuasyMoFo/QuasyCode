@@ -1,4 +1,4 @@
-# QuasyCode
+# QuasyCode VSCode Theme
 small kOS Theme, don't use on other languages...
 ***Scroll down for Installation guide***
 
